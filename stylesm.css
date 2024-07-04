@@ -1,0 +1,68 @@
+
+nav{
+    justify-content: space-between;
+    display: flex;
+}
+
+.intern{
+    text-align: center;
+    color: rgb(63, 14, 108);
+    margin-right: 20px;
+}
+
+a{
+    margin: 27px;
+    text-decoration: none;
+}
+
+button{
+    color: aliceblue;
+    background-color: rgb(63, 14, 108);
+    margin-right: 75px;
+    padding-left: 50px;
+    align-items: center;
+}
+
+h1{
+    font-size: 3.5rem;
+    color: rgb(63, 14, 108);
+}
+
+.hello{
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#one{
+    display: flex;
+
+}
+
+#too{
+    background-color: aliceblue;
+    color: rgb(63, 14, 108);
+    outline-color: rgb(63, 14, 108);
+    display: flex;
+}
+
+#one{
+    display: flex;
+}
+
+.color{
+    display: flexbox;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items: flex-start;
+}
+
+#two{
+    display: flex;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+}
