@@ -20,7 +20,11 @@ button{
     background-color: rgb(63, 14, 108);
     margin-right: 75px;
     padding-left: 50px;
+    text-align: center;
     align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 h1{
@@ -41,14 +45,13 @@ h1{
 }
 
 #too{
-    background-color: aliceblue;
-    color: rgb(63, 14, 108);
-    outline-color: rgb(63, 14, 108);
-    display: flex;
+   
 }
 
 #one{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .color{
@@ -58,11 +61,22 @@ h1{
     align-items: flex-start;
 }
 
-#two{
-    display: flex;
-}
 
 .button{
     display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#two{
+    background-color: aliceblue;
+    color: rgb(63, 14, 108);
+    outline-color: rgb(63, 14, 108);
+    display: flex;
+    outline-color: black;
+    outline-style: none;
+    justify-content: center;
     align-items: center;
 }
